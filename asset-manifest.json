@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/Tamagotchi/static/js/main.ed0484d9.chunk.js",
-    "main.js.map": "/Tamagotchi/static/js/main.ed0484d9.chunk.js.map",
+    "main.js": "/Tamagotchi/static/js/main.b382501f.chunk.js",
+    "main.js.map": "/Tamagotchi/static/js/main.b382501f.chunk.js.map",
     "runtime~main.js": "/Tamagotchi/static/js/runtime~main.b27164d3.js",
     "runtime~main.js.map": "/Tamagotchi/static/js/runtime~main.b27164d3.js.map",
-    "static/js/2.d4bf6643.chunk.js": "/Tamagotchi/static/js/2.d4bf6643.chunk.js",
-    "static/js/2.d4bf6643.chunk.js.map": "/Tamagotchi/static/js/2.d4bf6643.chunk.js.map",
+    "static/js/2.60f17ff6.chunk.js": "/Tamagotchi/static/js/2.60f17ff6.chunk.js",
+    "static/js/2.60f17ff6.chunk.js.map": "/Tamagotchi/static/js/2.60f17ff6.chunk.js.map",
     "index.html": "/Tamagotchi/index.html",
-    "precache-manifest.3fa545a029fc2ce25fbac5d926edeccf.js": "/Tamagotchi/precache-manifest.3fa545a029fc2ce25fbac5d926edeccf.js",
+    "precache-manifest.43a15f4ef0cf2454e463021ff50fdd8d.js": "/Tamagotchi/precache-manifest.43a15f4ef0cf2454e463021ff50fdd8d.js",
     "service-worker.js": "/Tamagotchi/service-worker.js",
     "static/media/Blastoise.png": "/Tamagotchi/static/media/Blastoise.3b47f107.png",
     "static/media/Bulbasaur.png": "/Tamagotchi/static/media/Bulbasaur.02db60fa.png",

@@ -1,15 +1,15 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4ea427be20e1511fa2b21a55bdab3335",
+    "revision": "31c07b112783d90f87d9cbb040cb813a",
     "url": "/Tamagotchi/index.html"
   },
   {
-    "revision": "b671926bc672d9bfc890",
-    "url": "/Tamagotchi/static/js/2.d4bf6643.chunk.js"
+    "revision": "d88625a4b081d54200f7",
+    "url": "/Tamagotchi/static/js/2.60f17ff6.chunk.js"
   },
   {
-    "revision": "fadcc4690ef31334b1c3",
-    "url": "/Tamagotchi/static/js/main.ed0484d9.chunk.js"
+    "revision": "c70744e877073be61e28",
+    "url": "/Tamagotchi/static/js/main.b382501f.chunk.js"
   },
   {
     "revision": "044a88ad237d68e4c8e5",
