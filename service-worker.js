@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Tamagotchi/precache-manifest.7893ca7dddc87710302fbe0f9c70e51f.js"
+  "/Tamagotchi/precache-manifest.3fa545a029fc2ce25fbac5d926edeccf.js"
 );
 
 self.addEventListener('message', (event) => {
