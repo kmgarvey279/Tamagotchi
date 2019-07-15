@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Tamagotchi/static/css/main.2cce8147.chunk.css",
+    "main.js": "/Tamagotchi/static/js/main.f3b9f493.chunk.js",
+    "main.js.map": "/Tamagotchi/static/js/main.f3b9f493.chunk.js.map",
+    "runtime~main.js": "/Tamagotchi/static/js/runtime~main.b27164d3.js",
+    "runtime~main.js.map": "/Tamagotchi/static/js/runtime~main.b27164d3.js.map",
+    "static/js/2.b41502e9.chunk.js": "/Tamagotchi/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/Tamagotchi/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/Tamagotchi/index.html",
+    "precache-manifest.7893ca7dddc87710302fbe0f9c70e51f.js": "/Tamagotchi/precache-manifest.7893ca7dddc87710302fbe0f9c70e51f.js",
+    "service-worker.js": "/Tamagotchi/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/Tamagotchi/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/Tamagotchi/static/media/logo.5d5d9eef.svg"
+  }
+}
